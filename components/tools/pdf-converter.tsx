@@ -2,10 +2,10 @@
 
 import { useState, useCallback } from "react"
 import { useDropzone } from "react-dropzone"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
-import { Progress } from "@/components/ui/progress"
-import { useToast } from "@/hooks/use-toast"
+import { Button } from "../../components/ui/button"
+import { Card, CardContent } from "../../components/ui/card"
+import { Progress } from "../../components/ui/progress"
+import { useToast } from "../../hooks/use-toast"
 import { Upload, FileText, Download, X, Loader2 } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 

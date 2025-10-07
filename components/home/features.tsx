@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import { Zap, Shield, DollarSign, Globe } from "lucide-react"
-import { Card, CardContent } from "@/components/ui/card"
+import { Card, CardContent } from "../../components/ui/card"
 
 const features = [
   {

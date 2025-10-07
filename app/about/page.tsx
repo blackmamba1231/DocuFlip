@@ -1,8 +1,8 @@
 import type { Metadata } from "next"
-import { Header } from "@/components/header"
-import { Footer } from "@/components/footer"
+import { Header } from "../../components/header"
+import { Footer } from "../../components/footer"
 import { Info, Zap, Shield, Code } from "lucide-react"
-import { Card, CardContent } from "@/components/ui/card"
+import { Card, CardContent } from "../../components/ui/card"
 
 export const metadata: Metadata = {
   title: "About Us",

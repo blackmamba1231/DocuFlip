@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
-import { Header } from "@/components/header"
-import { Footer } from "@/components/footer"
-import { PdfConverter } from "@/components/tools/pdf-converter"
+import { Header } from "../../../components/header"
+import { Footer } from "../../../components/footer"
+import { PdfConverter } from "../../../components/tools/pdf-converter"
 
 export const metadata: Metadata = {
   title: "PDF to DOCX Converter - Free Online Tool",

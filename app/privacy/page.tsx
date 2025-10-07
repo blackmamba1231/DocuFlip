@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
-import { Header } from "@/components/header"
-import { Footer } from "@/components/footer"
+import { Header } from "../../components/header"
+import { Footer } from "../../components/footer"
 import { Shield } from "lucide-react"
 
 export const metadata: Metadata = {

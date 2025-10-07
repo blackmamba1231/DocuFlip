@@ -1,9 +1,9 @@
-import { Header } from "@/components/header"
-import { Footer } from "@/components/footer"
-import { Hero } from "@/components/home/hero"
-import { Features } from "@/components/home/features"
-import { HowItWorks } from "@/components/home/how-it-works"
-import { CallToAction } from "@/components/home/call-to-action"
+import { Header } from "../components/header"
+import { Footer } from "../components/footer"
+import { Hero } from "../components/home/hero"
+import { Features } from "../components/home/features"
+import { HowItWorks } from "../components/home/how-it-works"
+import { CallToAction } from "../components/home/call-to-action"
 
 export default function HomePage() {
   return (
